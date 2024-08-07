@@ -1,2 +1,2 @@
-# reserch-project
-video rental management
+# reserch-project II
+video rental management system
